@@ -6,6 +6,12 @@ http://git.blivesta.com/animsition/
 
 https://github.com/blivesta/animsition
 
+##Stickyjs
+
+http://stickyjs.com/
+
+https://github.com/garand/sticky
+
 
 ##Slick Plugin - responsive carousel
 
