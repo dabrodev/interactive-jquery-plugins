@@ -31,3 +31,7 @@ http://tympanus.net/codrops/
 ##Check this out -> TweenMax
 
 https://greensock.com/tweenmax
+
+##Check this out -> Cinemagraphs
+
+http://cinemagraphs.com/
