@@ -35,3 +35,7 @@ https://greensock.com/tweenmax
 ##Check this out -> Cinemagraphs
 
 http://cinemagraphs.com/
+
+##Animated Modal
+
+http://joaopereirawd.github.io/animatedModal.js/
