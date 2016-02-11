@@ -42,4 +42,6 @@ http://joaopereirawd.github.io/animatedModal.js/
 
 ##WOW.js
 
+http://mynameismatthieu.com/WOW/
+
 https://github.com/matthieua/WOW
