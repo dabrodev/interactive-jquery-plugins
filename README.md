@@ -45,3 +45,9 @@ http://joaopereirawd.github.io/animatedModal.js/
 http://mynameismatthieu.com/WOW/
 
 https://github.com/matthieua/WOW
+
+##Animate.css
+
+https://daneden.github.io/animate.css/
+
+https://github.com/daneden/animate.css
