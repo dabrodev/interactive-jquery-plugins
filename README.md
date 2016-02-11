@@ -39,3 +39,7 @@ http://cinemagraphs.com/
 ##Animated Modal
 
 http://joaopereirawd.github.io/animatedModal.js/
+
+##WOW.js
+
+https://github.com/matthieua/WOW
