@@ -59,3 +59,21 @@ http://alvarotrigo.com/fullPage/#firstPage
 ##ScrollMagic.js
 
 http://janpaepke.github.io/ScrollMagic/
+
+##Scrollify
+
+http://projects.lukehaas.me/scrollify/#home
+
+##pagePuling.js - COOL!!!
+
+http://alvarotrigo.com/pagePiling/#page1
+
+##multiScroll.js
+
+http://alvarotrigo.com/multiScroll/#second
+
+##Other Scrolling Effects
+
+http://scrollme.nckprsn.com/
+http://parallax-scroll.aenism.com/
+http://johnpolacek.github.io/superscrollorama/
