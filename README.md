@@ -55,3 +55,7 @@ https://github.com/daneden/animate.css
 ##fullPage.js
 
 http://alvarotrigo.com/fullPage/#firstPage
+
+##ScrollMagic.js
+
+http://janpaepke.github.io/ScrollMagic/
