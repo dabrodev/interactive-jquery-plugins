@@ -51,3 +51,7 @@ https://github.com/matthieua/WOW
 https://daneden.github.io/animate.css/
 
 https://github.com/daneden/animate.css
+
+##fullPage.js
+
+http://alvarotrigo.com/fullPage/#firstPage
