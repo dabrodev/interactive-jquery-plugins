@@ -81,3 +81,7 @@ http://johnpolacek.github.io/superscrollorama/
 ##tiltShift.js
 
 tiltShift.js
+
+##jQuery Rain - 5500 plugins
+
+http://www.jqueryrain.com/
