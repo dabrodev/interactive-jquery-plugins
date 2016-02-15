@@ -85,3 +85,7 @@ tiltShift.js
 ##jQuery Rain - 5500 plugins
 
 http://www.jqueryrain.com/
+
+##Cropper
+
+http://fengyuanchen.github.io/cropper/
