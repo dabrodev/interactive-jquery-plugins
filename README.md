@@ -89,3 +89,7 @@ http://www.jqueryrain.com/
 ##Cropper
 
 http://fengyuanchen.github.io/cropper/
+
+##Awesome jQuery
+
+https://github.com/peterkokot/awesome-jquery
