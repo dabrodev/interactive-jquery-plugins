@@ -93,3 +93,7 @@ http://fengyuanchen.github.io/cropper/
 ##Awesome jQuery
 
 https://github.com/peterkokot/awesome-jquery
+
+##Polaroid Stack Grid
+
+http://tympanus.net/Tutorials/PolaroidStackGrid/index.html
