@@ -97,3 +97,7 @@ https://github.com/peterkokot/awesome-jquery
 ##Polaroid Stack Grid
 
 http://tympanus.net/Tutorials/PolaroidStackGrid/index.html
+
+##Rain Effect
+
+http://tympanus.net/Development/RainEffect/index.html
