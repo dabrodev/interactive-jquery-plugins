@@ -101,3 +101,7 @@ http://tympanus.net/Tutorials/PolaroidStackGrid/index.html
 ##Rain Effect
 
 http://tympanus.net/Development/RainEffect/index.html
+
+##Cardflip
+
+https://github.com/david-pm/cardflip
