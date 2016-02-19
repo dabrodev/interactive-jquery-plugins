@@ -109,3 +109,7 @@ https://github.com/david-pm/cardflip
 ##React Motion
 
 https://github.com/chenglou/react-motion
+
+##React - 11 Animation Examples
+
+https://react.rocks/tag/Animation
